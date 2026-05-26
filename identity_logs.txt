@@ -1,0 +1,8 @@
+[2026-05-25 20:35:02] CONN 127.0.0.1:45518 -> cliente conectado
+[2026-05-25 20:35:02] CONN 127.0.0.1:45522 -> cliente conectado
+[2026-05-25 20:35:02] RESP 127.0.0.1:45518 -> ERROR|400|formato invalido
+[2026-05-25 20:35:02] DISC 127.0.0.1:45518 -> cliente desconectado
+[2026-05-25 20:35:02] CONN 127.0.0.1:45530 -> cliente conectado
+[2026-05-25 20:35:03] RESP 127.0.0.1:45522 -> ERROR|400|formato invalido
+[2026-05-25 20:35:03] DISC 127.0.0.1:45522 -> cliente desconectado
+[2026-05-25 20:36:20] DISC 127.0.0.1:45530 -> cliente desconectado
